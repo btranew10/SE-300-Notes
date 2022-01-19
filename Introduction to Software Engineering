@@ -1,0 +1,54 @@
+A system consists of the following: a set of entities (including people); a set of activities; a description of the relationship between entities and activities; and a definition of the boundary of the system.
+
+Systems Engineering includes the typical engineering techniques concerned with analysis, design, construction and testing of an engineering product; but it also includes management topics such as project organization, planning, scheduling and tracking, estimating, and team management.
+
+Examples of Systems:
+
+Reckefeller Center -NYC
+Polaris Submarine System
+
+What is Software Engineering?:
+
+
+A commonly stated goal of software engineering is to deliver quality software, on time, and within budget.
+
+The key goal should be to economically build something reliable.
+
+Software Engineering is Computer Science for the real world.
+
+
+Software system testing typically finds 25 defects per 1000 lines of code.
+On average, software projects overrun their original cost estimates by 189%.
+On average, the time overrun for software projects is 222% of the original time.
+
+Difficulties in Software Development:
+	1. Essence - inherent software difficulties
+	2. Accidents - non-essential software difficulties
+
+What is Software Quality?:
+
+Three Quality Dimensions
+	1. Quality of the product
+	2. Quality of the process
+	3. Quality related to business environment 
+
+Software Quality Characteristics:
+
+Reliability - provides the services expected by the users in a correct and consistent manner
+
+Efficiency - does not waste computer resources (space and time)
+
+Maintainability - easy to modify
+
+Usability - offers appropriate user interfaces and external documentation 
+
+Three Categories of Software Issues:
+
+	1. Product Issues
+		a. Difficulty meeting the product goals
+	2. People Issues
+		a. Customer, developer, and end user have different product views/needs
+		b. Difficulties with effective team creation and coordination
+	3. Process Issues
+		a. Difficulties with identifying , measuring, and managing progress and risks
+		
