@@ -1,0 +1,102 @@
+A framework that describes the activities performed at each stage of a software development project.
+
+Its goal is to:
+	Produce a high quality product
+	Within the schedule
+	Within the budget
+	
+SDLC:
+	1. Requirement Analysis
+	2. Design
+	3. Implementation
+	4. Testing
+	5. Evolution
+Requirement Analysis:
+
+Identifying musts and good to haves
+Identifying Quality/Security needs
+Identifying project risk
+
+Software Design:
+
+The design is the first step in the actual development of the product 
+	High level design - architecture
+	Detail design - where you actually write algorithms
+Start with the architecture
+	Have at least two different architecture
+	
+Testing:
+
+The process of evaluating the product to make sure it meets the specified requirement
+
+There are different types of testing:
+	Execution( manual, automatic, hybrid)
+	Methods (static, dynamic)
+	Approaches (black box, white box, gray box)
+	Levels (when, what)
+
+Evaluation (operation and maintenance)
+	
+	Product deployment
+		Installation
+		Training
+		Operation
+	
+	Maintenance
+		Big fix
+		Adapting functionality
+		Adding adaptability
+		
+SDLC Models:
+
+Almost all models have many common phases ( Design, Implementation, Validation, and Maintenance)
+The difference between models is in what order they use these phases
+
+Overall goal is to increase product quality
+
+Iterative Development vs. Incremental Development
+
+Iterative: 
+	Take slices of a product and stack them on top of each other
+	
+Incremental: 
+	Putting pieces together, similar to Legos 
+	Prioritizes requirements of the system and then implements them in groups
+	Each subsequent release of the system adds new function to the previous release, until all designed functionality has been implemented.
+
+Pros/Cons:
+
+Pros 
+	- Early operational/working product
+	- Customer can respond to each build
+	- Lowers initial delivery cost
+	- Risk of changing requirements is reduced
+
+Cons 
+	- Requires good planning and design
+	- Early definition of fully functional system
+	- Well-defined module interfaces
+	- Costs higher than Waterfall
+
+Waterfall Model - the very first SDLC
+	
+	Pros:
+		- Easy to understand
+		- Provides structure
+		- Milestones are well understood
+		- Identified deliverables, documentation and milestones at the end of each phase
+	Cons 
+		- Requirements must be stable
+		- Inhibit flexibility
+		- False impression of progress
+	
+V-Shaped SDLC Model - a variant of the Waterfall 
+	
+	Testing of the product is planned in parallel with a corresponding phase of development
+	
+	Pros
+		- All Waterfall advantages
+		- Quality assurance starts on the first day
+	
+	Cons
+All Waterfall disadvantages
