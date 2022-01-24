@@ -99,4 +99,57 @@ V-Shaped SDLC Model - a variant of the Waterfall
 		- Quality assurance starts on the first day
 	
 	Cons
-All Waterfall disadvantages
+		- All Waterfall disadvantages
+	
+Spiral SDLC Model:
+
+	- Combination of waterfall and prototyping with the addition of risk analysis
+	- Each cycle involves the same sequence of steps as the waterfall process model
+
+Pros:
+	- Early indication of challenging risks
+	- Critical high-risk functions are developed first
+	- Early and frequent feedback from users
+ Cons:
+	- Time spent for evaluating risks
+	- Risk assessment expertise required
+	- Time spent planning and resetting objectives
+	- Developers need to be reassigned during non-development times
+
+Unified Process:
+
+	Inception - define the scope of the project and develop the business case
+	Elaboration - plan project, specify features, and baseline the architecture (to focus development effort)
+	Construction - build the product in increments
+	Transition - transition the product to its users
+	
+Agile Process: both incremental and iterative
+
+	- Speed up or bypass one or more life cycle phases
+	- Usually less formal and reduced scope
+	- Used for time-critical applications
+	- Used in organizations that employ disciplined methods
+ASD - Adaptive Software Development
+FDD - Feature Driven Development
+Crystal Clear
+DSDM - Dynamic Software Development Method
+RAD - Rapid Application Development
+XP - Extreme Programming
+RUP - Rational Unify Process
+SCRUM - (more to come)
+
+Software Process Models and Standards:
+
+	CMM - capability maturity model
+		PSP - personal software process
+		TSP - team software process
+	ISO 9000
+	SPICE - Software Process Improvement and Capability dEtermination
+	
+Software Capability Maturity Model
+	1. Initial 
+	2. Repeatable
+	3. Defined
+	4. Managed
+	5. Optimizing
+
